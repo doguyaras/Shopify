@@ -10,8 +10,8 @@ Kullanılan Teknolojiler:
 
 Proje Yapısı:
 1. Base Entity: Product, Customer, Cart ve Order gibi temel varlık sınıflarının ortak özelliklerini içeren bir base entity sınıfı bulunmaktadır.Bu sınıf, veritabanındaki tabloların miras alacağı temel yapıyı sağlar.
-2. Product: Ürünlerin temel bilgilerini içeren sınıftır. Ürün adı, fiyatı, stok miktarı gibi bilgileri içerir. Ayrıca, ürün fiyatlarının geçmişini tutan bir tablo oluşturulabilir.
-3. Customer: Müşterilerin temel bilgilerini içeren sınıftır. Müşteri adı, adresi, e-posta gibi bilgileri içerir.
+2. Product: Ürünlerin temel bilgilerini içeren sınıftır. Ürün adı, fiyatı, stok miktarı gibi bilgileri içerir.
+3. Customer: Müşterilerin temel bilgilerini içeren sınıftır. Müşteri adı,e-posta gibi bilgileri içerir.
 4. Cart: Müşterilerin sepetlerini temsil eder. Her müşteriye ait bir sepet bulunabilir. Sepetin içerisindeki ürünler ve miktarları burada tutulur. Sepetin toplam fiyatı her işlemde güncellenir.
 5. Order: Müşterilerin geçmiş siparişlerini temsil eder
 
