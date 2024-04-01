@@ -4,7 +4,7 @@ Amaç:
 Bu proje, bir e-ticaret platformu için temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştiren bir Spring Boot uygulamasıdır.
 
 Kullanılan Teknolojiler:
-- Spring Boot:
+- Spring Boot
 - Spring Data JPA
 - H2 Database
 
